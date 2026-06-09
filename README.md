@@ -8,14 +8,6 @@ Repositorio acompanante de la tesis de grado de Oscar Ivan Ayala Ortiz, Escuela 
 
 ---
 
-## Cita sugerida (APA 7)
-
-> Ayala-Ortiz, O. I. (2026). *pipeline_SVM: Clasificacion ordinal del desgaste de brocas CNC mediante analisis acustico* (Version 1.0-sustentacion) [Software]. GitHub. https://github.com/AyalaOrtizOscar/pipeline_SVM
-
-Si cita una version concreta congelada para revision por jurado, use el tag `v1.0-sustentacion`.
-
----
-
 ## Contenido del repositorio
 
 | Carpeta | Que contiene |
