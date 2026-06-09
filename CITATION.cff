@@ -1,0 +1,31 @@
+cff-version: 1.2.0
+
+message: "If you use this software, please cite it as below."
+
+authors:
+  - family-names: "Ayala Ortiz"
+    given-names: "Oscar Ivan"
+    orcid: "https://orcid.org/0000-0003-3581-1084"
+
+title: "Base de conocimiento multimodal para el monitoreo acústico del desgaste de herramientas en taladrado CNC"
+
+version: "1.0.0"
+
+doi: "10.5281/zenodo.17184560"
+
+date-released: 2026-06-09
+
+repository-code: "https://github.com/AyalaOrtizOscar/Base-de-conocimiento"
+
+url: "https://github.com/AyalaOrtizOscar/Base-de-conocimiento"
+
+keywords:
+  - Machine Learning
+  - Acoustic Monitoring
+  - Tool Wear Monitoring
+  - CNC Drilling
+  - SAE 4140
+  - Knowledge Base
+  - Multimodal Learning
+
+license: "MIT"
