@@ -65,6 +65,16 @@ PATH="$CLEAN_PATH" pdflatex -interaction=nonstopmode informe_proyecto.tex
 
 Codigo bajo MIT. Texto del informe y figuras bajo CC BY 4.0. Datos experimentales sujetos a politica de proteccion de datos UIS.
 
+## Citation
+
+If you use this repository, please cite:
+
+Ayala Ortiz, O.I. (2026).
+Base de conocimiento multimodal para el monitoreo acústico del desgaste de herramientas en taladrado CNC.
+Zenodo.
+https://doi.org/10.5281/zenodo.17184560
+
+
 ## Contacto
 
 Oscar Ivan Ayala Ortiz — `ayalaortizoscarivan@gmail.com`
