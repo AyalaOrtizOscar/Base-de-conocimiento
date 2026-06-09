@@ -50,16 +50,6 @@ Para acceder a los datos brutos, contactar al autor o al director Jorge Enrique 
 - **SVM RBF, C = 10**, top-15 features por informacion mutua
 - **3 075 muestras** del Lote I (Orejarena, 2014); pipeline extendido a Lote II (Ayala, 2025-2026)
 
-## Compilacion del informe (Windows / MiKTeX)
-
-```bash
-cd informe_proyecto
-CLEAN_PATH="/c/Users/ayala/AppData/Local/Programs/MiKTeX/miktex/bin/x64:/c/Windows/system32:/c/Windows"
-PATH="$CLEAN_PATH" pdflatex -interaction=nonstopmode informe_proyecto.tex
-PATH="$CLEAN_PATH" bibtex informe_proyecto
-PATH="$CLEAN_PATH" pdflatex -interaction=nonstopmode informe_proyecto.tex
-PATH="$CLEAN_PATH" pdflatex -interaction=nonstopmode informe_proyecto.tex
-```
 
 ## Licencia
 
